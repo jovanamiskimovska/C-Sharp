@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\Miskimovski\source\repos\Class2Solution\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

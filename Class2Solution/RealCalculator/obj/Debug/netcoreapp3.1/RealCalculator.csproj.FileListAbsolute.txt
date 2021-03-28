@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.exe
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.deps.json
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Miskimovski\source\repos\Class2Solution\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.exe
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.deps.json
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.dll
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.pdb
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.dll
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.pdb
+C:\Users\Miskimovski\source\repos\Class2Solution\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.genruntimeconfig.cache
