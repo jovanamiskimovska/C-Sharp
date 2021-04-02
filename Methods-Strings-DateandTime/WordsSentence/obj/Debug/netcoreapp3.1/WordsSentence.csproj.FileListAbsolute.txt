@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\bin\Debug\netcoreapp3.1\WordsSentence.exe
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\bin\Debug\netcoreapp3.1\WordsSentence.deps.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\bin\Debug\netcoreapp3.1\WordsSentence.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\bin\Debug\netcoreapp3.1\WordsSentence.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\bin\Debug\netcoreapp3.1\WordsSentence.dll
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\bin\Debug\netcoreapp3.1\WordsSentence.pdb
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\obj\Debug\netcoreapp3.1\WordsSentence.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\obj\Debug\netcoreapp3.1\WordsSentence.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\obj\Debug\netcoreapp3.1\WordsSentence.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\obj\Debug\netcoreapp3.1\WordsSentence.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\obj\Debug\netcoreapp3.1\WordsSentence.dll
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\obj\Debug\netcoreapp3.1\WordsSentence.pdb
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\WordsSentence\obj\Debug\netcoreapp3.1\WordsSentence.genruntimeconfig.cache

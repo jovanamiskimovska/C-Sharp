@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\bin\Debug\netcoreapp3.1\NextToEachOther.exe
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\bin\Debug\netcoreapp3.1\NextToEachOther.deps.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\bin\Debug\netcoreapp3.1\NextToEachOther.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\bin\Debug\netcoreapp3.1\NextToEachOther.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\bin\Debug\netcoreapp3.1\NextToEachOther.dll
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\bin\Debug\netcoreapp3.1\NextToEachOther.pdb
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\obj\Debug\netcoreapp3.1\NextToEachOther.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\obj\Debug\netcoreapp3.1\NextToEachOther.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\obj\Debug\netcoreapp3.1\NextToEachOther.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\obj\Debug\netcoreapp3.1\NextToEachOther.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\obj\Debug\netcoreapp3.1\NextToEachOther.dll
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\obj\Debug\netcoreapp3.1\NextToEachOther.pdb
+C:\Users\Miskimovski\source\repos\Loops-Arrays\NextToEachOther\obj\Debug\netcoreapp3.1\NextToEachOther.genruntimeconfig.cache

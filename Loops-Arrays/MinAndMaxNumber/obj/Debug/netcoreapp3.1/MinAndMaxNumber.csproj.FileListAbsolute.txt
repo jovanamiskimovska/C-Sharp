@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\bin\Debug\netcoreapp3.1\MinAndMaxNumber.exe
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\bin\Debug\netcoreapp3.1\MinAndMaxNumber.deps.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\bin\Debug\netcoreapp3.1\MinAndMaxNumber.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\bin\Debug\netcoreapp3.1\MinAndMaxNumber.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\bin\Debug\netcoreapp3.1\MinAndMaxNumber.dll
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\bin\Debug\netcoreapp3.1\MinAndMaxNumber.pdb
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\obj\Debug\netcoreapp3.1\MinAndMaxNumber.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\obj\Debug\netcoreapp3.1\MinAndMaxNumber.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\obj\Debug\netcoreapp3.1\MinAndMaxNumber.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\obj\Debug\netcoreapp3.1\MinAndMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\obj\Debug\netcoreapp3.1\MinAndMaxNumber.dll
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\obj\Debug\netcoreapp3.1\MinAndMaxNumber.pdb
+C:\Users\Miskimovski\source\repos\Loops-Arrays\MinAndMaxNumber\obj\Debug\netcoreapp3.1\MinAndMaxNumber.genruntimeconfig.cache

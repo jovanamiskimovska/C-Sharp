@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.exe
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.deps.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.dll
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.pdb
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.dll
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.pdb
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.genruntimeconfig.cache

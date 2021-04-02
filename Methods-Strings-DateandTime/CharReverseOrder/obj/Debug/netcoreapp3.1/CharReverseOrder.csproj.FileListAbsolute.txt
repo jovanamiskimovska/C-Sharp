@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\bin\Debug\netcoreapp3.1\CharReverseOrder.exe
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\bin\Debug\netcoreapp3.1\CharReverseOrder.deps.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\bin\Debug\netcoreapp3.1\CharReverseOrder.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\bin\Debug\netcoreapp3.1\CharReverseOrder.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\bin\Debug\netcoreapp3.1\CharReverseOrder.dll
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\bin\Debug\netcoreapp3.1\CharReverseOrder.pdb
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\obj\Debug\netcoreapp3.1\CharReverseOrder.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\obj\Debug\netcoreapp3.1\CharReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\obj\Debug\netcoreapp3.1\CharReverseOrder.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\obj\Debug\netcoreapp3.1\CharReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\obj\Debug\netcoreapp3.1\CharReverseOrder.dll
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\obj\Debug\netcoreapp3.1\CharReverseOrder.pdb
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CharReverseOrder\obj\Debug\netcoreapp3.1\CharReverseOrder.genruntimeconfig.cache

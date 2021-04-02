@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.exe
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.deps.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.dll
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.pdb
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.dll
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.pdb
+C:\Users\Miskimovski\source\repos\Loops-Arrays\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.exe
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.deps.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.dll
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.pdb
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.dll
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.pdb
+C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.genruntimeconfig.cache
