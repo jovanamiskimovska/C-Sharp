@@ -32,7 +32,7 @@ namespace CalculationMethods
             }
             else
             {
-                return null;
+                return 0;
             }
         }
 
@@ -57,7 +57,7 @@ namespace CalculationMethods
                     }
                 case "division":
                     {
-                        if (null)
+                        if (num2 == 0)
                         {
                             Console.WriteLine("The second number can't be 0");
                         }

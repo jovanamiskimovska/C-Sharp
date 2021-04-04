@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miskimovski\\source\\repos\\Methods-Strings-DateandTime\\AgeCalculator\\AgeCalculator.csproj": {}
+    "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Methods-Strings-DateandTime\\AgeCalculator\\AgeCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miskimovski\\source\\repos\\Methods-Strings-DateandTime\\AgeCalculator\\AgeCalculator.csproj": {
+    "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Methods-Strings-DateandTime\\AgeCalculator\\AgeCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miskimovski\\source\\repos\\Methods-Strings-DateandTime\\AgeCalculator\\AgeCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Methods-Strings-DateandTime\\AgeCalculator\\AgeCalculator.csproj",
         "projectName": "AgeCalculator",
-        "projectPath": "C:\\Users\\Miskimovski\\source\\repos\\Methods-Strings-DateandTime\\AgeCalculator\\AgeCalculator.csproj",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Methods-Strings-DateandTime\\AgeCalculator\\AgeCalculator.csproj",
         "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miskimovski\\source\\repos\\Methods-Strings-DateandTime\\AgeCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Methods-Strings-DateandTime\\AgeCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miskimovski\\source\\repos\\Methods-Strings-DateandTime\\CharReverseOrder\\CharReverseOrder.csproj",
+      "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Methods-Strings-DateandTime\\CharReverseOrder\\CharReverseOrder.csproj",
       "projectName": "CharReverseOrder",
-      "projectPath": "C:\\Users\\Miskimovski\\source\\repos\\Methods-Strings-DateandTime\\CharReverseOrder\\CharReverseOrder.csproj",
+      "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Methods-Strings-DateandTime\\CharReverseOrder\\CharReverseOrder.csproj",
       "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miskimovski\\source\\repos\\Methods-Strings-DateandTime\\CharReverseOrder\\obj\\",
+      "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Methods-Strings-DateandTime\\CharReverseOrder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
