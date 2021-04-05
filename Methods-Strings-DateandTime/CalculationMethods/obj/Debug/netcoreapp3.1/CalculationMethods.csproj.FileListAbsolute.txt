@@ -11,3 +11,16 @@ C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CalculationMethods
 C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.dll
 C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.pdb
 C:\Users\Miskimovski\source\repos\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.genruntimeconfig.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\bin\Debug\netcoreapp3.1\CalculationMethods.exe
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\bin\Debug\netcoreapp3.1\CalculationMethods.deps.json
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\bin\Debug\netcoreapp3.1\CalculationMethods.runtimeconfig.json
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\bin\Debug\netcoreapp3.1\CalculationMethods.runtimeconfig.dev.json
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\bin\Debug\netcoreapp3.1\CalculationMethods.dll
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\bin\Debug\netcoreapp3.1\CalculationMethods.pdb
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.csprojAssemblyReference.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.AssemblyInfo.cs
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.dll
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.pdb
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Methods-Strings-DateandTime\CalculationMethods\obj\Debug\netcoreapp3.1\CalculationMethods.genruntimeconfig.cache

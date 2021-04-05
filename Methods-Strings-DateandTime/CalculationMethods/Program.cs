@@ -25,15 +25,9 @@ namespace CalculationMethods
 
         public static float Division(float firstNum, float secondum)
         {
-            if(secondum != 0)
-            {
+   
                 float division = firstNum / secondum;
                 return division;
-            }
-            else
-            {
-                return 0;
-            }
         }
 
         public static void Calculator(string operation, float num1, float num2)
