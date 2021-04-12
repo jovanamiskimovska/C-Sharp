@@ -11,14 +11,15 @@ namespace Domain.Classes
         public Manager(string firstName, string lastName) : base(firstName, lastName)
         {
             Role = RoleEnum.Manager;
+            Salary = 750;
         }
         public void AddBonus(double bonusInput)
         {
-            _bonus = bonusInput;
+            _bonus += bonusInput;
         }
         public override double GetSalary()
         {
-            return Salary += _bonus;
+            return Salary + _bonus;
         }
 
     }

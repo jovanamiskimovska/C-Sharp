@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\App\\App.csproj": {}
+    "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\App\\App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\App\\App.csproj": {
+    "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\App\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\App\\App.csproj",
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\App\\App.csproj",
         "projectName": "App",
-        "projectPath": "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\App\\App.csproj",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\App\\App.csproj",
         "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\App\\obj\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj"
+              "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj": {
+    "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miskimovski\\source\\repos\\Inheritance-Enums-ClassLibrary\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Inheritance-Enums-ClassLibrary\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
