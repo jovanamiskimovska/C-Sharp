@@ -1,0 +1,12 @@
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\bin\Debug\netcoreapp3.1\ListOfNumbers.exe
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\bin\Debug\netcoreapp3.1\ListOfNumbers.deps.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\bin\Debug\netcoreapp3.1\ListOfNumbers.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\bin\Debug\netcoreapp3.1\ListOfNumbers.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\bin\Debug\netcoreapp3.1\ListOfNumbers.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\bin\Debug\netcoreapp3.1\ListOfNumbers.pdb
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\obj\Debug\netcoreapp3.1\ListOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\obj\Debug\netcoreapp3.1\ListOfNumbers.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\obj\Debug\netcoreapp3.1\ListOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\obj\Debug\netcoreapp3.1\ListOfNumbers.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\obj\Debug\netcoreapp3.1\ListOfNumbers.pdb
+C:\Users\Miskimovski\source\repos\Collections-Homework\ListOfNumbers\obj\Debug\netcoreapp3.1\ListOfNumbers.genruntimeconfig.cache

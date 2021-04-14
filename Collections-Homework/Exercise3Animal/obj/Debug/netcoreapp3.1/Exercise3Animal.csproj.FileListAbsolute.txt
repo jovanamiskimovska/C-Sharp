@@ -1,0 +1,16 @@
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\bin\Debug\netcoreapp3.1\Exercise3Animal.exe
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\bin\Debug\netcoreapp3.1\Exercise3Animal.deps.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\bin\Debug\netcoreapp3.1\Exercise3Animal.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\bin\Debug\netcoreapp3.1\Exercise3Animal.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\bin\Debug\netcoreapp3.1\Exercise3Animal.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\bin\Debug\netcoreapp3.1\Exercise3Animal.pdb
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\obj\Debug\netcoreapp3.1\Exercise3Animal.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\obj\Debug\netcoreapp3.1\Exercise3Animal.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\obj\Debug\netcoreapp3.1\Exercise3Animal.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\obj\Debug\netcoreapp3.1\Exercise3Animal.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\obj\Debug\netcoreapp3.1\Exercise3Animal.csproj.CopyComplete
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\obj\Debug\netcoreapp3.1\Exercise3Animal.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\obj\Debug\netcoreapp3.1\Exercise3Animal.pdb
+C:\Users\Miskimovski\source\repos\Collections-Homework\Exercise3Animal\obj\Debug\netcoreapp3.1\Exercise3Animal.genruntimeconfig.cache

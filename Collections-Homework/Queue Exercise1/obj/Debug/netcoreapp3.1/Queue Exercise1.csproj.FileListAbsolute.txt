@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\bin\Debug\netcoreapp3.1\Queue Exercise1.exe
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\bin\Debug\netcoreapp3.1\Queue Exercise1.deps.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\bin\Debug\netcoreapp3.1\Queue Exercise1.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\bin\Debug\netcoreapp3.1\Queue Exercise1.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\bin\Debug\netcoreapp3.1\Queue Exercise1.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\bin\Debug\netcoreapp3.1\Queue Exercise1.pdb
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\obj\Debug\netcoreapp3.1\Queue Exercise1.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\obj\Debug\netcoreapp3.1\Queue Exercise1.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\obj\Debug\netcoreapp3.1\Queue Exercise1.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\obj\Debug\netcoreapp3.1\Queue Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\obj\Debug\netcoreapp3.1\Queue Exercise1.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\obj\Debug\netcoreapp3.1\Queue Exercise1.pdb
+C:\Users\Miskimovski\source\repos\Collections-Homework\Queue Exercise1\obj\Debug\netcoreapp3.1\Queue Exercise1.genruntimeconfig.cache

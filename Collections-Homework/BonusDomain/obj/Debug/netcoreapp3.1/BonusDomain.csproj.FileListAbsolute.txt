@@ -1,0 +1,9 @@
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\bin\Debug\netcoreapp3.1\BonusDomain.deps.json
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\bin\Debug\netcoreapp3.1\BonusDomain.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\bin\Debug\netcoreapp3.1\BonusDomain.pdb
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\obj\Debug\netcoreapp3.1\BonusDomain.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\obj\Debug\netcoreapp3.1\BonusDomain.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\obj\Debug\netcoreapp3.1\BonusDomain.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\obj\Debug\netcoreapp3.1\BonusDomain.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\obj\Debug\netcoreapp3.1\BonusDomain.dll
+C:\Users\Miskimovski\source\repos\Collections-Homework\BonusDomain\obj\Debug\netcoreapp3.1\BonusDomain.pdb
