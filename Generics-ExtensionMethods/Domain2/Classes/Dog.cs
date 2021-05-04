@@ -14,7 +14,7 @@ namespace Domain2.Classes
         }
         public override void PrintInfo()
         {
-            Console.WriteLine($"Name {Name} is a {Age} years old {Type} who loves to eat {FavouriteFood}");
+            Console.WriteLine($"{Name} is a {Age} years old {Type} who loves to eat {FavouriteFood}");
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\App1\\App1.csproj": {}
+    "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\App1\\App1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\App1\\App1.csproj": {
+    "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\App1\\App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\App1\\App1.csproj",
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\App1\\App1.csproj",
         "projectName": "App1",
-        "projectPath": "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\App1\\App1.csproj",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\App1\\App1.csproj",
         "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\App1\\obj\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj": {
-                "projectPath": "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj"
+              "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj": {
+    "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj",
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj",
         "projectName": "Domain1",
-        "projectPath": "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\Domain1\\Domain1.csproj",
         "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miskimovski\\source\\repos\\Generics-ExtensionMethods\\Domain1\\obj\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\C-Sharp\\Generics-ExtensionMethods\\Domain1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",

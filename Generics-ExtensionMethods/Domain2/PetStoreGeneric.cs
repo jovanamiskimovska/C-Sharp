@@ -25,10 +25,12 @@ namespace Domain2
             T foundPet = GenericPets.FirstOrDefault(x => x.Name.ToLower() == name.ToLower());
             if (foundPet == null)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("There is no such pet in the list!");
             }
             else
             {
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"Congratulations! You are a pet owner now! You bought {foundPet.Name}");
                 GenericPets.Remove(foundPet);              
             }

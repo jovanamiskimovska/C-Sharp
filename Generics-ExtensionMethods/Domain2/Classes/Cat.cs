@@ -18,11 +18,11 @@ namespace Domain2.Classes
         {
             if (IsLazy)
             {
-                Console.WriteLine($"Name: {Name}, is a lazy {Age} years old {Type} that has {LivesLeft} lives left.");
+                Console.WriteLine($" {Name}, is a lazy {Age} years old {Type} that has {LivesLeft} lives left.");
             }
             else
             {
-                Console.WriteLine($"Name: {Name}, is {Age} years old, not a lazy {Type}, that has {LivesLeft} lives left.");
+                Console.WriteLine($"{Name}, is {Age} years old, not a lazy {Type}, that has {LivesLeft} lives left.");
             }
         }
     }

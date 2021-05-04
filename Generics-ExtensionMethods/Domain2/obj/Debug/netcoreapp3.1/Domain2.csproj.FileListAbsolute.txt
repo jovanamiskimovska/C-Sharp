@@ -7,3 +7,12 @@ C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain2\obj\Debug\ne
 C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.csproj.CoreCompileInputs.cache
 C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.dll
 C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.pdb
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\bin\Debug\netcoreapp3.1\Domain2.deps.json
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\bin\Debug\netcoreapp3.1\Domain2.dll
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\bin\Debug\netcoreapp3.1\Domain2.pdb
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.csprojAssemblyReference.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.AssemblyInfo.cs
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.dll
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\C-Sharp\Generics-ExtensionMethods\Domain2\obj\Debug\netcoreapp3.1\Domain2.pdb
