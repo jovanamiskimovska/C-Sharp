@@ -1,0 +1,9 @@
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\bin\Debug\netcoreapp3.1\Domain1.deps.json
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\bin\Debug\netcoreapp3.1\Domain1.dll
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\bin\Debug\netcoreapp3.1\Domain1.pdb
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\obj\Debug\netcoreapp3.1\Domain1.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\obj\Debug\netcoreapp3.1\Domain1.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\obj\Debug\netcoreapp3.1\Domain1.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\obj\Debug\netcoreapp3.1\Domain1.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\obj\Debug\netcoreapp3.1\Domain1.dll
+C:\Users\Miskimovski\source\repos\Generics-ExtensionMethods\Domain1\obj\Debug\netcoreapp3.1\Domain1.pdb
