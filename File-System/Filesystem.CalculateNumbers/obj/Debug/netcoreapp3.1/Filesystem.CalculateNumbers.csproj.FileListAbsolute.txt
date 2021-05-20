@@ -1,0 +1,13 @@
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\bin\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.exe
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\bin\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.deps.json
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\bin\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.runtimeconfig.json
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\bin\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.runtimeconfig.dev.json
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\bin\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.dll
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\bin\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.pdb
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\obj\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.csprojAssemblyReference.cache
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\obj\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\obj\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\obj\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\obj\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.dll
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\obj\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.pdb
+C:\Users\Miskimovski\source\repos\File-System\Filesystem.CalculateNumbers\obj\Debug\netcoreapp3.1\Filesystem.CalculateNumbers.genruntimeconfig.cache

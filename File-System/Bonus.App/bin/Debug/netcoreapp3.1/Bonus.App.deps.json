@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bonus.App/1.0.0": {
+        "dependencies": {
+          "Bonus.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Bonus.App.dll": {}
+        }
+      },
+      "Bonus.Domain/1.0.0": {
+        "runtime": {
+          "Bonus.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bonus.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bonus.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
