@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXX/dPVo6G+cyXSXE2966CWbDrn9BNZwfD/VzdtqblQlgf6NW87XlM6EKCw4C4T/PwagTvFZiDkklzl+cvdXHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miskimovski\\source\\repos\\SEDC.TimeTracking\\SEDC.TrackingTime.Services\\SEDC.TrackingTime.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miskimovski\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
